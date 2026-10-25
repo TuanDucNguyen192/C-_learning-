@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\createtournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createtournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\matchupentrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\matchupentrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\trackerui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\trackerui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\tournamentviewerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +51,8 @@
       "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentviewerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerlibrary\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F663-886B-4892-9DEC-19CA82ACFE00}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|c:\\users\\algernon\\source\\timcery\\trackerlibrary\\trackerui\\createtournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5E68D1-BFE0-48A8-A26D-FBE49367DD35}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createtournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,49 +62,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrackerUI",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
-              "RelativeDocumentMoniker": "TrackerUI\\TrackerUI.csproj",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
-              "RelativeToolTip": "TrackerUI\\TrackerUI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-24T15:27:53.206Z",
+              "DocumentIndex": 0,
+              "Title": "GlobalConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\GlobalConfig.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\GlobalConfig.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\GlobalConfig.cs",
+              "RelativeToolTip": "TrackerLibrary\\GlobalConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:58:20.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TournamentViewerForm.resx",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.resx",
-              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.resx",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.resx",
-              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-24T15:26:59.027Z",
+              "DocumentIndex": 4,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\IDataConnection.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\IDataConnection.cs",
+              "RelativeToolTip": "TrackerLibrary\\IDataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:53:11.279Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\Program.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\Program.cs",
+              "RelativeToolTip": "TrackerUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:03:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentDashboardForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentDashboardForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\TournamentDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:54:36.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePrizeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreatePrizeForm.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\CreatePrizeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:47:46.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTeamForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTeamForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTeamForm.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTeamForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\CreateTeamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:28:26.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTournament.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTournament.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTournament.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTournament.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\CreateTournament.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T06:35:02.763Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TournamentViewerForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.Designer.cs",
-              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.Designer.cs",
-              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T15:26:42.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "TournamentViewerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.cs",
               "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.cs",
@@ -104,80 +165,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MatchupEntryModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\MatchupEntryModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\MatchupEntryModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\MatchupEntryModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\MatchupEntryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T15:06:34.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MatchupModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\MatchupModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\MatchupModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\MatchupModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\MatchupModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T15:04:16.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrizeModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\PrizeModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\PrizeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T15:01:16.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\PersonModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\PersonModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\PersonModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\PersonModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T14:52:03.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeamModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\TeamModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\TeamModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\TeamModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\TeamModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T14:43:52.916Z",
+              "DocumentIndex": 8,
+              "Title": "TrackerUI",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+              "RelativeDocumentMoniker": "TrackerUI\\TrackerUI.csproj",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+              "RelativeToolTip": "TrackerUI\\TrackerUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-25T06:59:50.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TournamentModel.cs",
-              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\TournamentModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\TournamentModel.cs",
-              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerLibrary\\TournamentModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\TournamentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Title": "TournamentViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.cs",
+              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T14:55:39.287Z",
+              "WhenOpened": "2026-10-25T04:25:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TournamentViewerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.Designer.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.Designer.cs",
+              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T06:55:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TournamentViewerForm.resx",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.resx",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.resx",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\TournamentViewerForm.resx",
+              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-25T06:56:00.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateTournament.cs",
+              "DocumentMoniker": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTournament.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTournament.cs",
+              "ToolTip": "C:\\Users\\Algernon\\source\\TimCery\\TrackerLibrary\\TrackerUI\\CreateTournament.cs",
+              "RelativeToolTip": "TrackerUI\\CreateTournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T06:46:42.702Z",
               "EditorCaption": ""
             }
           ]
